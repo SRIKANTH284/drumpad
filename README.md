@@ -1,8 +1,4 @@
-You're right! I apologize for the confusion. Since your project uses **HTML, CSS, and JavaScript** without React, I'll adjust the `README.md` to reflect that.
 
-Here’s the corrected version:
-
----
 
 # Drum Pad Project 🎶
 
@@ -53,7 +49,7 @@ Each key corresponds to a specific drum sound:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ySRIKANTH284/drum-pad.git
+   git clone [https://github.com/ySRIKANTH284/drum-pad.git](https://github.com/SRIKANTH284/drumpad.git)
    ```
 2. Navigate into the project directory:
    ```
