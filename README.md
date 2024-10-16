@@ -49,7 +49,7 @@ Each key corresponds to a specific drum sound:
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/ySRIKANTH284/drum-pad.git](https://github.com/SRIKANTH284/drumpad.git)
+   git clone https://github.com/SRIKANTH284/drumpad.git
    ```
 2. Navigate into the project directory:
    ```
