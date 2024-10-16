@@ -5,7 +5,7 @@
 A fun and interactive **Drum Pad** built using **HTML**, **CSS**, and **JavaScript**. This project allows users to play different drum sounds by pressing corresponding keys on their keyboard or clicking the buttons on the screen.
 
 ## Demo
-[Link to Live Demo](https://your-live-demo-link.com)
+[Link to Live Demo]((https://srikanth284.github.io/drumpad/)
 
 ## Features
 
